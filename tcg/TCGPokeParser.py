@@ -1,4 +1,4 @@
-from TCGPokeInterface import TCGPokeInterface
+from .TCGPokeInterface import TCGPokeInterface
 
 
 class TCGPokeParser(TCGPokeInterface):
